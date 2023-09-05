@@ -1,0 +1,11 @@
+Author Owais Aamir
+
+in this program you check if your 
+email is correct or not
+    
+    
+    
+    
+    
+    
+    
